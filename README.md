@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Rahaf Albogami
 
+![Profile views](https://komarev.com/ghpvc/?username=RahafAlbogami&style=flat&color=lightgrey)
+
+
 **Engineer by day, Creator by night — crafting apps, systems, and 3D worlds.**
 
 I'm a **Senior Software Engineer** passionate about building scalable systems, integrating automation pipelines, and bringing creative ideas to life through both **code** and **art**.  
